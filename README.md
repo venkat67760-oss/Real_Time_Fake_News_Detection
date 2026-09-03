@@ -59,7 +59,7 @@ real-time-fake-news-detector/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Waseem-Baig/real-time-fake-news-detection.git
+   git clone https://github.com/venkat67760-oss/real-time-fake-news-detection.git
    cd real-time-fake-news-detector
    ```
 
@@ -236,7 +236,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Waseem Baig** - [@Waseem-Baig](https://github.com/Waseem-Baig)
+**suda venkat** - github.com/venkat67760-oss
 
 Project Link: [https://github.com/Waseem-Baig/real-time-fake-news-detection](https://github.com/Waseem-Baig/real-time-fake-news-detection)
 
