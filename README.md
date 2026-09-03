@@ -238,7 +238,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **suda venkat** - github.com/venkat67760-oss
 
-Project Link: [https://github.com/Waseem-Baig/real-time-fake-news-detection](https://github.com/Waseem-Baig/real-time-fake-news-detection)
+Project Link: https://github.com/venkat67760-oss/Real_Time_Fake_News_Detection
 
 ---
 
